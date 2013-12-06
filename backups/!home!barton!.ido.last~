@@ -1,0 +1,309 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/barton/projects/MyFamilyVoice/app/scripts/" . "controllers/")
+ ("/home/barton/projects/MyFamilyVoice/app/" . "views/")
+ ("/home/barton/projects/MyFamilyVoice/" . "app/")
+ ("/home/barton/projects/FamilyVoiceAdmin/app/" . "views/")
+ ("/home/barton/projects/FamilyVoiceAdmin/app/scripts/" . "directives/")
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/lib/git_stats/stats_view/" . "charts/")
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/lib/git_stats/" . "stats_view/")
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/lib/" . "git_stats/")
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/" . "lib/")
+ ("/var/lib/gems/1.9.1/gems/" . "git_stats-1.0.9/")
+ ("/var/lib/gems/1.9.1/" . "gems/")
+ ("/var/lib/gems/" . "1.9.1/")
+ ("/home/barton/.local/share/" . "applications/")
+ ("/home/barton/.local/" . "share/")
+ ("/home/barton/projects/angular-app/server/" . "lib/")
+ ("/home/barton/projects/lynx-ui/test/app/" . "profile/")
+ ("/home/barton/projects/ng-widget/app/" . "views/")
+ ("/home/barton/projects/angular/" . "angularjs-book/")
+ ("/home/barton/projects/yo/djsreader/app/scripts/" . "controllers/")
+ ("/home/barton/projects/yo/djsreader/app/" . "views/")
+ ("/home/barton/projects/yo/alexyoungdjsreader/app/scripts/" . "controllers/")
+ ("/home/barton/projects/yo/alexyoungdjsreader/app/" . "scripts/")
+ ("/home/barton/projects/clojure/programmingClojure/code/src/" . "examples/")
+ ("/home/barton/.emacs.d/" . "themes/")
+ ("/home/barton/projects/clojure/command-line-args/" . "src/")
+ ("/home/barton/projects/clojure/" . "ClojureProgramming/")
+ ("/home/barton/projects/" . "MyFamilyVoice/")
+ ("/home/barton/" . "projects/")
+ ("/home/" . "barton/")
+ ("/" . "tmp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/barton/projects/MyFamilyVoice/"
+ "/home/barton/projects/MyFamilyVoice/bower_components/Papp/js/services/"
+ "/home/barton/projects/FamilyVoiceAdmin/"
+ "/home/barton/projects/FamilyVoiceAdmin/bower_components/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/scripts/models/"
+ "/home/barton/projects/Papp-master/js/"
+ "/home/barton/projects/MyFamilyVoice/app/"
+ "/home/barton/projects/MyFamilyVoice/app/views/"
+ "/home/barton/projects/MyFamilyVoice/app/scripts/controllers/activities/"
+ "/home/barton/projects/Papp-master/"
+ "/home/barton/projects/MyFamilyVoice/app/scripts/controllers/"
+ "/home/barton/projects/MyFamilyVoice/bower_components/"
+ "/home/barton/projects/"
+ "/home/barton/projects/temp/"
+ "/home/barton/projects/MyFamilyVoice/app/scripts/"
+ "/home/barton/projects/angular-parse-app-master/"
+ "/home/barton/"
+ "/home/barton/projects/MyFamilyVoice/bower_components/bootstrap/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/scripts/services/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/scripts/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/scripts/controllers/activities/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/views/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/views/activities/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/scripts/controllers/"
+ "/home/barton/projects/FamilyVoiceAdmin/app/scripts/directives/"
+ "/tmp/"
+ "/home/barton/projects/lynx-ui/vendor/bootstrap/"
+ "/home/barton/projects/lynx-ui/"
+ "/home/barton/projects/gource-0.40/"
+ "/home/barton/projects/ffmpeg-sources/ffmpeg/"
+ "/var/lib/gems/1.9.1/gems/git_stats-1.0.9/lib/git_stats/stats_view/charts/"
+ "/home/barton/projects/gitstats/"
+ "/home/barton/.local/share/applications/"
+ "/home/barton/projects/lynx-ui/src/app/"
+ "/home/barton/projects/lynx-ui/src/app/services/"
+ "/home/barton/projects/lynx-ui/src/"
+ "/home/barton/projects/lynx-ui/src/app/login/"
+ "/home/barton/projects/angular-app/server/"
+ "/home/barton/projects/lynx-ui/server/"
+ "/home/barton/projects/lynx-ui/server/lib/"
+ "/home/barton/projects/angular-app/server/lib/"
+ "/home/barton/projects/lynx-ui/server/lib/routes/"
+ "/home/barton/projects/angular-app/"
+ "/home/barton/projects/angular-app/server/lib/routes/"
+ "/home/barton/projects/lynx-ui/test/"
+ "/home/barton/projects/lynx-ui/test/app/profile/"
+ "/home/barton/projects/mongodb-linux-x86_64-2.4.6/"
+ "/"
+ "/home/barton/projects/redis-2.6.16/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "index.html"
+ "barton.sh"
+ "lynx.sh"
+ "lynx-ui.sh"
+ "security.js"
+ "feed.js"
+ "alsa-base.confedialink-btusb.conf"
+ "runit.sh"
+ "password.txt"
+ "foo.txt"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/barton/projects/MyFamilyVoice/bower_components/" (21147 39335) "wysihtml5/" "angular-scenario/" "angular/" "jquery/" "json3/" "bootstrap-select/" "../" "bootstrap-wysihtml5/" "autotype/" "angular-sanitize/" "Papp/" "es5-shim/" "underscore/" "bootstrap-timepicker/" "./" "angular-strap/" "bootstrap-datepicker/" "angular-route/" "angular-mocks/" "bootstrap-sass/" "angular-collection/" "bootstrap/")
+
+ ("/home/barton/projects/MyFamilyVoice/bower_components/Papp/" (21147 39335) "partials/" ".htaccess" "robots.txt" "README.md" "img/" "humans.txt" ".bower.json" "bootstrap-gh-pages/" "css/" "../" "TODO.txt" "favicon.ico" ".gitattributes" "404.html" "index.html" "angularjs/" "doc/" "./" ".gitignore" "js/" "crossdomain.xml")
+
+ ("/home/barton/projects/MyFamilyVoice/bower_components/Papp/js/" (21147 38100) "controllers/" "app.js" "testQueries.js" "../" "services/" "vendor/" "./")
+
+ ("/home/barton/projects/MyFamilyVoice/bower_components/Papp/js/services/" (21147 38100) "parse-resource.js" "../" "appService.js" "./")
+
+ ("/home/barton/projects/MyFamilyVoice/" (21147 39307) "cloud/" ".jshintrc" ".bowerrc" "public/" "Gruntfile.js" "README.md" "test/" "build.config.js" "package.json" "app/" "karma.conf.js" "config/" ".travis.yml" "../" "karma-e2e.conf.js" ".gitattributes" "node_modules/" "bower.json" "bower_components/" ".editorconfig" "./" ".git/" ".gitignore")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/" (21147 39176) "cloud/" ".jshintrc" ".bowerrc" "public/" "Gruntfile.js" "README.md" "test/" "build.config.js" "package.json" "app/" "karma.conf.js" "config/" ".travis.yml" ".idea/" "../" "karma-e2e.conf.js" ".gitattributes" ".sass-cache/" "node_modules/" "bower.json" ".editorconfig" "./" ".git/" ".gitignore" "FamilyVoiceAdmin.iml")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/bower_components/" (21147 38929) "wysihtml5/" "angular-scenario/" "angular/" "jquery/" "json3/" "bootstrap-select/" "../" "bootstrap-wysihtml5/" "autotype/" "angular-sanitize/" "es5-shim/" "underscore/" "bootstrap-timepicker/" "./" "angular-strap/" "bootstrap-datepicker/" "angular-route/" "angular-mocks/" "bootstrap-sass/" "angular-collection/" "bootstrap/")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/bower_components/Papp/" (21145 57047) "partials/" ".htaccess" "robots.txt" "README.md" "img/" "humans.txt" ".bower.json" "bootstrap-gh-pages/" "css/" "../" "TODO.txt" "favicon.ico" ".gitattributes" "404.html" "index.html" "angularjs/" "doc/" "./" ".gitignore" "js/" "crossdomain.xml")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/bower_components/Papp/js/" (21145 57045) "controllers/" "app.js" "testQueries.js" "../" "services/" "vendor/" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/bower_components/Papp/js/services/" (21145 57045) "parse-resource.js" "../" "appService.js" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/scripts/" (21147 38789) "controllers/" "app.js" "directives/" "models/" "../" "services/" "./")
+
+ ("/home/barton/projects/Papp-master/js/services/" (21147 38641) "parse-resource.js" "../" "appService.js" "./")
+
+ ("/home/barton/projects/MyFamilyVoice/app/scripts/controllers/activities/" (21147 38237) "update.js" "../" "index.js" "./")
+
+ ("/home/barton/projects/MyFamilyVoice/app/" (21147 37968) ".htaccess" "robots.txt" "images/" "scripts/" "styles/" ".buildignore" "../" "favicon.ico" "404.html" "index.html" "views/" "./")
+
+ ("/home/barton/projects/MyFamilyVoice/app/views/activities/" (21147 37553) "update.html" "../" "#update.html#" "index.html" "./" ".#update.html")
+
+ ("/home/barton/projects/MyFamilyVoice/app/scripts/controllers/" (21147 24924) "navbar.js" "main.js" "../" "activities/" "./")
+
+ ("/home/barton/projects/MyFamilyVoice/app/views/" (21147 24924) "main.html" "../" "activities/" "./")
+
+ ("/home/barton/projects/" (21147 34824) "ng-boilerplate-0.3.1-release.zip" "MyFamilyVoice/" "temp/" "java/" "yo/" "gitstats/" "ng-book/" "ffmpeg-sources/" "angular-collection-master/" "angular-seed-master/" "angular/" "redis-2.6.16/" "gource-0.40/" "lynx-server/" "FamilyVoiceAdmin/" "Gource/" "SDL-1.2.14/" "gource.mp4" "angular-parse-app-master/" "gitinspector/" "css/" "SDL-1.2.15/" "mimosa/" "../" "mojito/" "lynx.sh" "lynx-git-stats/" "ng-widget/" "html5/" "parse-angular-demo/" "javascript/" "SDL-1.2.14.tar.gz" "c/" "angular-app/" "flouss/" "clojure/" "lynx-ui/" "Papp-master/" "wijmo/" "./" "angular-login-example-master/" "durandal/" "SDL_image-1.2.11/" "angular-seed-master.zip" "DFAngular/" "dart/" "lynx-git-status/")
+
+ ("/home/barton/projects/temp/" (21147 34824) "../" "./")
+
+ ("/home/barton/projects/angular-collection-master/" (21147 28855) "angular-collection.js" "Gruntfile.js" "README.md" "test/" "angular-collection.min.js" "package.json" ".travis.yml" "../" "CHANGELOG.md" "bower.json" "./" ".git/" ".gitignore")
+
+ ("/home/barton/projects/MyFamilyVoice/app/scripts/" (21147 24924) "controllers/" "app.js" "directives/" "app.js~" "models/" "../" "services/" "./")
+
+ ("/home/barton/projects/Papp-master/js/controllers/" (21147 28347) "parseAppCtrl.js" "schemaCtrl.js" "frameCtrl.js" "discussCtrl.js" "../" "queryCtrl.js" "./")
+
+ ("/home/barton/projects/Papp-master/js/" (21147 28347) "controllers/" "app.js" "testQueries.js" "../" "services/" "vendor/" "./")
+
+ ("/home/barton/projects/Papp-master/" (21147 28394) "partials/" ".htaccess" "robots.txt" "README.md" "img/" "humans.txt" "bootstrap-gh-pages/" "css/" "../" "TODO.txt" "favicon.ico" ".gitattributes" "404.html" "index.html" "angularjs/" "doc/" "./" ".git/" ".gitignore" "js/" "crossdomain.xml")
+
+ ("/home/barton/projects/angular-parse-app-master/app/" (21146 9072) ".htaccess" "robots.txt" "images/" "scripts/" "styles/" ".buildignore" "../" "favicon.ico" "404.html" "index.html" "views/" "bower_components/" "./")
+
+ ("/home/barton/projects/angular-parse-app-master/app/scripts/" (21146 8771) "controllers/" "app.js" "directives/" "app.js~" "models/" "../" "services/" "./")
+
+ ("/home/barton/projects/angular-parse-app-master/app/scripts/services/" (21146 8681) "TagCollection.js" "ActivityCollection.js" "Auth.js" "Logout.js" "../" "./")
+
+ ("/home/barton/projects/angular-parse-app-master/" (21146 9088) ".jshintrc" ".bowerrc" "Gruntfile.js" "README.md" "test/" "package.json" "app/" "karma.conf.js" ".travis.yml" ".tmp/" "../" "karma-e2e.conf.js" ".gitattributes" ".sass-cache/" "node_modules/" "bower.json" ".editorconfig" "./" ".gitignore")
+
+ ("/home/barton/" (21147 26675) ".goutputstream-VAIITW" ".goutputstream-XPSTVW" "workspace/" ".gnome/" ".gksu.lock" ".npm/" ".WebStorm6/" ".goutputstream-XBLYVW" ".subversion/" "examples.desktop" "Videos/" "Downloads/" ".goutputstream-DZG3ZW" ".gnome2_private/" ".m2/" "Pictures/" ".compiz/" ".kde/" ".thunderbird/" "host-projects/" ".ICEauthority" ".mission-control/" ".emacs.elc" ".cache/" "Default Project.osp" ".gem/" "livestmp/" "Dropbox/" ".pulse/" ".pki/" ".goutputstream-W3VI2W" ".goutputstream-47RRTW" ".adobe/" ".xsession-errors" ".dbus/" "notes.txt~" "bin/" ".goutputstream-U9JD2W" "projects/" ".bitcoin/" "local/" ".IntelliJIdea12/" ".lives-dir/" ".mplayer/" ".goutputstream-F4XAVW" ".ssh/" ".config/" ".gstreamer-0.10/" ".ido.last" "tmp/" "Public/" "good-emacs" ".goutputstream-UQ1UWW" ".xsession-errors.old" ".bower/" "idea-IU-129.1359/" ".goutputstream-9N5VZW" ".mongorc.js" ".goutputstream-OUDMZW" ".profile" ".java/" ".lives" ".gconf/" "Templates/" "Documents/" ".FBReader/" "node-v0.8.22/" ".goutputstream-ELPJTW" ".dbshell" ".emacs" ".local/" ".goutputstream-OXVOVW" ".aptanasecure/" ".goutputstream-ICEBTW" ".mozilla/" ".android/" "libpeerconnection.log" "ffmpeg_build/" ".goutputstream-22T0TW" ".bashrc" ".thumbnails/" ".lein/" "settings.jar" ".gtk-bookmarks" ".node-gyp/" "VirtualBox VMs/" ".bash_history" ".emacs~" ".goutputstream-SU471W" "jshint-mode/" ".goutputstream-EYB7TW" ".Xauthority" "LightTable/" ".gnome2/" "o3/" "node_modules/" ".openshot/" "thumbnail/" ".goutputstream-KZHYWW" ".gitconfig" ".goutputstream-KKZE2W" ".pulse-cookie" "emacs-rainbow" ".VirtualBox/" "Music/" ".bash_logout" ".goutputstream-TA8TUW" ".macromedia/" "orig-emacs" "tools/" "Ubuntu One/" ".dropbox-dist/" ".recentf" ".pub-cache/" ".dmrc" ".goutputstream-M60PTW" ".dropbox/" ".xchat2/" ".eclipse/" "GreenBelt-March26-2013.osp" ".lighttable/" ".emacs.d/" "notes.txt" ".goutputstream-OVATWW" "Desktop/" ".swt/" "../" "./")
+
+ ("/home/barton/projects/MyFamilyVoice/bower_components/bootstrap/" (21147 25550) "README.md" "Makefile" "img/" ".bower.json" "docs/" "less/" "package.json" "CONTRIBUTING.md" "composer.json" "LICENSE" ".travis.yml" "../" "CHANGELOG.md" "node_modules/" "bower.json" "bower_components/" "./" ".gitignore" "js/" "bootstrap/")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/scripts/controllers/activities/" (21147 23549) "update.js" "../" "index.js" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/" (21147 23057) ".htaccess" "robots.txt" "images/" "scripts/" "styles/" ".buildignore" "../" "favicon.ico" "404.html" "index.html" "views/" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/views/" (21145 58767) "main.html" "../" "activities/" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/views/activities/" (21147 21737) "update.html" "../" "index.html" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/scripts/controllers/" (21147 15935) "navbar.js" "main.js" "../" "activities/" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/scripts/directives/" (21147 15416) "wysihtml5.js" "../" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/scripts/models/" (21145 58767) "Activity.js" "User.js" "../" "Tag.js" "./")
+
+ ("/home/barton/projects/FamilyVoiceAdmin/app/scripts/services/" (21147 14892) "TagCollection.js" "ActivityCollection.js" "Auth.js" "Logout.js" "../" "./")
+
+ ("/tmp/" (21125 26668) "gource.HbayMo" "+~JF3721704353554014822.tmp" "installed2490279610324394756plugins" ".com.google.Chrome.KWXkO9/" "unity_support_test.0" "tmpd6J39c" "hsperfdata_barton/" ".com.google.Chrome.5GbTZW/" "+~JF7049334163119176038.tmp" "gource.gZDJTQ" "ssh-3XFyL2uJV31U/" ".com.google.Chrome.kEm2cG/" "+~JF793809379902047595.tmp" "pulse-PKdhtXMmr18n/" "IntelliJ IDEA Global Settings" ".ICE-unix/" "installed4189642826865381231plugins" ".X11-unix/" ".com.google.Chrome.DzD607/" "gource.BvS8TY" ".X0-lock" "../" "./")
+
+ ("/home/barton/projects/gource-0.40/" (21110 22412) "THANKS" "ChangeLog" "Makefile.in" "Makefile" "Makefile.am" "config.log" "install-sh" "src/" "depcomp" "configure.ac" "#README#" "COPYING" "m4/" "missing" "../" "aclocal.m4" "data/" "INSTALL" "config.guess" "gource" "README" "./" "config.sub" "gource.win32.cbp" "configure" "config.status")
+
+ ("/home/barton/projects/lynx-ui/vendor/bootstrap/" (21122 47131) "_config.yml" "Gruntfile.js" "DOCS-LICENSE" "browserstack.json" "README.md" "components.html" "docs-assets/" ".bower.json" "less/" "customize.html" "package.json" "CONTRIBUTING.md" "css.html" "LICENSE-MIT" "about.html" "CNAME" "composer.json" "LICENSE" "_layouts/" "../" "fonts/" "dist/" "index.html" "_includes/" "node_modules/" "bower.json" "getting-started.html" "examples/" "./" "javascript.html" "js/")
+
+ ("/home/barton/projects/lynx-ui/node_modules/" (21122 47194) "grunt-ngmin/" "grunt-svgmin/" "grunt-open/" "karma-requirejs/" "karma-phantomjs-launcher/" "karma-script-launcher/" "grunt-contrib-htmlmin/" "grunt-contrib-connect/" "grunt-contrib-compass/" "karma-ng-html2js-preprocessor/" "karma-chrome-launcher/" "karma-coffee-preprocessor/" "passport-local/" "connect/" "load-grunt-tasks/" "grunt-google-cdn/" "passport/" "grunt-autoprefixer/" "karma-html2js-preprocessor/" "grunt-contrib-concat/" "grunt-nodemon/" "grunt-usemin/" "grunt-karma/" "grunt-contrib-jshint/" "grunt-concurrent/" "grunt-contrib-watch/" "connect-livereload/" "grunt-contrib-uglify/" "karma/" "grunt-contrib-clean/" "grunt/" "protractor/" "grunt-contrib-coffee/" "karma-jasmine/" "grunt-contrib-cssmin/" "karma-firefox-launcher/" "http-proxy/" "grunt-contrib-imagemin/" "grunt-html2js/" "grunt-contrib-compress/" "express/" "karma-ng-scenario/" "gifsicle/" "grunt-bower-install/" "grunt-contrib-copy/" "grunt-rev/" ".bin/" "grunt-connect-proxy/" "grunt-recess/" "time-grunt/" "ejs/" "../" "./")
+
+ ("/home/barton/projects/lynx-ui/" (21122 47128) ".jshintrc" ".bowerrc" "Gruntfile.js" "README.md" "test/" "lynx-ui.iml" "build.config.js" "protractor-debug.js" "src/" "package.json" "server/" "vendor.config.js" ".travis.yml" "protractor-conf.js" ".idea/" "git_stats/" "../" "domain/" ".gitattributes" "selenium/" "node_modules/" "bower.json" "vendor/" "target/" "./" ".git/" ".gitignore")
+
+ ("/home/barton/projects/ffmpeg-sources/" (21109 35778) "ffmpeg/" "../" "./")
+
+ ("/home/barton/projects/ffmpeg-sources/ffmpeg/" (21109 36080) "COPYING.LGPLv2.1" "cmdutils.h" "ffmpeg.h" "ffmpeg_opt.c" "barton.sh" "libpostproc/" "Makefile" "config.log" "libswscale/" "ffprobe.c" "RELEASE" "COPYING.GPLv2" "ffserver.c" "CREDITS" "presets/" "libavresample/" "COPYING.GPLv3" "cmdutils.c" "ffplay.c" "arch.mak" "libswresample/" "compat/" "config.fate" "MAINTAINERS" "version.sh" "LICENSE" "Changelog" "libavformat/" "cmdutils_common_opts.h" "ffmpeg.c" "../" "libavdevice/" "COPYING.LGPLv3" "INSTALL" "tests/" "ffmpeg_filter.c" "libavcodec/" "library.mak" "README" "doc/" "./" ".git/" "tools/" "libavfilter/" ".gitignore" "configure" "libavutil/" "common.mak")
+
+ ("/home/barton/projects/SDL-1.2.15/" (21109 34284) "MPWmake.sea.bin" "VisualCE/" "README.QNX" "Xcode/" "build-deps" "TODO" "test/" "Makefile.in" "SDL.qpg.in" "README-SDL.txt" "Makefile" "README.AmigaOS" "config.log" "docs/" "CREDITS" "configure.in" "README.PS3" "src/" "sdl-config" "README.wscons" "README.PicoGUI" "README.BeOS" "Watcom-OS2.zip" "Borland.zip" "README.NanoX" "COPYING" "WhatsNew" "symbian.zip" "README.Qtopia" "README.Porting" "VisualC/" "README.DC" "build-scripts/" "sdl.m4" "docs.html" "build/" "SDL.spec.in" "README.WinCE" "README.MacOS" "README.NDS" "include/" "sdl.pc" "sdl-config.in" "BUGS" "INSTALL" "README.MacOSX" "Borland.html" "Makefile.dc" "README.MiNT" "README.HG" "SDL.spec" "Makefile.minimal" "README.OS2" "README" "acinclude/" "autogen.sh" "sdl.pc.in" "CWprojects.sea.bin" "README.Watcom" "libtool" "VisualC.html" "README.Symbian" "Watcom-Win32.zip" "README.RISCOS" "SDL.qpg" "configure" "config.status" "../" "./")
+
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/lib/git_stats/stats_view/charts/" (21109 14404) "chart.rb" "charts.rb" "../" "authors_charts.rb" "activity_charts.rb" "./" "repo_charts.rb")
+
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/lib/git_stats/stats_view/" (21109 14404) "view_data.rb" "view.rb" "charts/" "../" "template.rb" "./")
+
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/lib/git_stats/" (21109 14404) "git_data/" "base.rb" "i18n.rb" "version.rb" "stats_view/" "core_extensions/" "../" "validator.rb" "generator.rb" "by_field_finder.rb" "cli.rb" "hash_initializable.rb" "./")
+
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/lib/" (21109 14404) "git_stats/" "../" "./" "git_stats.rb")
+
+ ("/var/lib/gems/1.9.1/gems/git_stats-1.0.9/" (21109 14404) "LICENSE.txt" "README.md" "spec/" "Rakefile" "bin/" "git_stats.gemspec" "config/" "../" "templates/" "Gemfile" "lib/" ".rspec" "./" ".gitignore" ".gitmodules")
+
+ ("/var/lib/gems/1.9.1/gems/" (21109 14404) "rack-1.5.2/" "activesupport-4.0.1/" "haml-4.0.3/" "i18n-0.6.5/" "tzinfo-0.3.38/" "erubis-2.7.0/" "bundler-1.3.5/" "builder-3.1.4/" "minitest-4.7.5/" "atomic-1.1.14/" "../" "rack-test-0.6.2/" "lazy_high_charts-1.5.0/" "thread_safe-0.1.3/" "multi_json-1.8.2/" "actionpack-4.0.1/" "hash-deep-merge-0.1.1/" "git_stats-1.0.9/" "./" "thor-0.18.1/" "tilt-1.4.1/")
+
+ ("/var/lib/gems/1.9.1/" (21109 13883) "gems/" "../" "specifications/" "cache/" "doc/" "./")
+
+ ("/var/lib/gems/" (21109 13883) "../" "1.9.1/" "./")
+
+ ("/var/lib/" (21109 13883) "vim/" "acpi-support/" "mongodb/" "belocs/" "snmp/" "flashplugin-installer/" "gems/" "ghostscript/" "initscripts/" "urandom/" "AccountsService/" "polkit-1/" "rfkill/" "insserv/" "gconf/" "colord/" "dictionaries-common/" "aspell/" "update-rc.d/" "dbus/" "libreoffice/" "ureadahead/" "ubuntu-release-upgrader/" "pm-utils/" "pam/" "update-manager/" "misc/" "udisks2/" "initramfs-tools/" "pulseaudio/" "dhcp/" "python/" "sudo/" "emacsen-common/" "dpkg/" "binfmts/" "ubuntu-drivers-common/" "update-notifier/" "usbutils/" "security/" "lintian/" "mplayer/" "logrotate/" "python-support/" "NetworkManager/" "alsa/" "hp/" "dropbox/" "mlocate/" "xfonts/" "udisks/" "avahi-autoipd/" "ucf/" "doc-base/" "plymouth/" "synaptic/" "xml-core/" "sgml-base/" "usb_modeswitch/" "xkb/" "ntpdate/" "libuuid/" "apt-xapian-index/" "os-prober/" "apt/" "locales/" "samba/" "upower/" "pycentral/" "lightdm/" "bluetooth/" "../" "./")
+
+ ("/var/" (21104 18698) "log/" "mail/" "www/" "run/" "local/" "tmp/" "opt/" "backups/" "games/" "../" "crash/" "lock/" "spool/" "cache/" "lib/" "metrics/" "./")
+
+ ("/home/" (20791 37439) "barton/" "../" "./")
+
+ ("/home/barton/projects/gitstats/" (21109 9944) "lynx-ui.sh" "lynx-server.sh" "Makefile" "arrow-none.gif" "gitstats" "sortable.js" "gitstats.css" "arrow-up.gif" "../" "doc/" "./" ".git/" "arrow-down.gif")
+
+ ("/home/barton/.local/share/applications/" (21104 17527) "mimeapps.list" "jetbrains-idea.desktop" "DartEditor.desktop" "../" "TitaniumStudio.desktop" "./")
+
+ ("/home/barton/.local/share/" (21104 17296) "unity-webapps/" "Trash/" "recently-used.xbel" "zeitgeist/" "totem/" "shotwell/" "webkit/" ".converted-launchers" "session_migration-ubuntu" "ubuntuone/" "gsettings-data-convert" "previews/" "telepathy/" "bower/" "../" "keyrings/" "gvfs-metadata/" "nautilus/" "applications/" "./" "evolution/" "rhythmbox/" "icc/")
+
+ ("/home/barton/.local/" (20791 59132) "share/" "../" "./")
+
+ ("/home/barton/projects/lynx-ui/src/" (21104 17095) "less/" "app/" "assets/" "../" "fonts/" "index.html" "./")
+
+ ("/home/barton/projects/lynx-ui/src/app/" (21104 17095) "login/" "search/" "profile/" "api/" "app.js" "graph/" "navbar/" "dashboard/" "panels/" "../" "services/" "config.js" "./")
+
+ ("/home/barton/projects/lynx-ui/src/app/services/" (21096 25855) "../" "services.js" "./")
+
+ ("/home/barton/projects/lynx-ui/server/" (21096 25134) "../" "server.js" "lib/" "./")
+
+ ("/home/barton/projects/lynx-ui/src/app/login/" (21096 21153) "login.js" "login.html" "../" "./")
+
+ ("/home/barton/projects/lynx-ui/vendor/" (21096 20828) "angular-resource/" "angular-touch/" "labjs/" "angular-scenario/" "angular/" "jquery/" "json3/" "../" "d3/" "angular-sanitize/" "es5-shim/" "underscore/" "./" "angular-route/" "angular-mocks/" "angular-animate/" "witoldsz/" "bootstrap/")
+
+ ("/home/barton/projects/lynx-ui/vendor/witoldsz/" (21096 20828) "http-auth-interceptor.js" "../" "./")
+
+ ("/home/barton/projects/lynx-ui/server/lib/" (21095 4418) "security.js" "routes/" "../" "./")
+
+ ("/home/barton/projects/angular-app/server/" (21095 3837) "test/" "package.json" "initDB.js" "cert/" ".travis.yml" "gruntFile.js" "../" "config.js" "server.js" "lib/" "./" ".gitignore")
+
+ ("/home/barton/projects/lynx-ui/server/lib/routes/" (21095 4136) "security.js" "../" "./")
+
+ ("/home/barton/projects/angular-app/server/lib/" (21095 2224) "security.js" "routes/" "protectJSON.js" "initDB.js" "../" "mongo-proxy.js" "xsrf.js" "mongo-strategy.js" "./")
+
+ ("/home/barton/projects/angular-app/server/lib/routes/" (21094 64247) "appFile.js" "security.js" "static.js" "../" "admin.js" "./" "projects.js")
+
+ ("/home/barton/projects/angular-app/" (21094 64247) "README.md" "server/" "LICENSE" ".travis.yml" "../" "client/" "./" ".git/" ".gitignore")
+
+ ("/home/barton/projects/lynx-ui/test/" (21077 60259) "app/" "karma.conf.js" "../" "./")
+
+ ("/home/barton/projects/lynx-ui/test/app/" (21077 55636) "profile/" "panels/" "../" "./")
+
+ ("/home/barton/projects/lynx-ui/test/app/profile/" (21077 58305) "main.spec.js" "../" "main.scenario.js" "./")
+
+ ("/home/barton/projects/lynx-ui/src/app/dashboard/" (21077 57130) "dashboard.js" "../" "dashboard.html" "./")
+
+ ("/home/barton/projects/mongodb-linux-x86_64-2.4.6/" (21075 16082) "bin/" "GNU-AGPL-3.0" "../" "THIRD-PARTY-NOTICES" "README" "./")
+
+ ("/home/barton/projects/redis-2.6.16/" (21073 45686) "MANIFESTO" "Makefile" "src/" "COPYING" "sentinel.conf" "../" "runtest" "00-RELEASENOTES" "CONTRIBUTING" "BUGS" "INSTALL" "tests/" "redis.conf" "README" "./" "deps/" ".gitignore" "utils/")
+
+ ("/home/barton/projects/ng-widget/" (21073 45361) ".jshintrc" ".bowerrc" "Gruntfile.js" "project.json" "npm-scripts.js" "test/" "Dockerfile" "worker/" "package.json" "server/" "config/" "Procfile" "../" ".npmignore" ".slugignore" ".gitattributes" "client/" "node_modules/" "bower.json" ".editorconfig" "./")
+
+ ("/home/barton/projects/ng-widget/app/" (21073 40266) ".htaccess" "robots.txt" "scripts/" "styles/" ".buildignore" "../" "favicon.ico" "404.html" "index.html" "views/" "bower_components/" "./")
+
+ ("/home/barton/projects/ng-widget/app/scripts/" (21073 39308) "controllers/" "app.js" "../" "./")
+
+ ("/home/barton/projects/ng-widget/app/views/" (21073 39792) "main.html" "metricContainer.html" "../" "./")
+
+ ("/home/barton/projects/ng-widget/app/scripts/controllers/" (21073 39269) "metricController.js" "main.js" "../" "./")
+
+ ("/home/barton/projects/angular/angularjs-book/" (21019 21388) "README.md" "chapter8/" "chapter3/" "../" "chapter2/" "chapter4/" "chapter6/" "./" ".git/" ".gitignore" "chapter1/")
+
+ ("/home/barton/projects/angular/" (21019 21363) "book/" "angularjs-book/" "../" "./")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/test/" (21019 21388) "spec/" "../" "vendor/" "./" "e2e/")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/test/spec/" (21019 21388) "../" "./" "controllersSpec.js")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/app/views/" (21019 21378) "../" "viewRecipe.html" "recipeForm.html" "./" "list.html")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/app/scripts/controllers/" (21019 21378) "controllers.js" "../" "./")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/app/" (21019 21378) "img/" "scripts/" "styles/" "../" "index.html" "views/" "./")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/app/styles/" (21019 21378) "guthub.css" "bootstrap-responsive.min.css" "../" "bootstrap-responsive.css" "./" "bootstrap.min.css" "bootstrap.css")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/app/scripts/" (21019 21378) "controllers/" "directives/" "../" "services/" "vendor/" "./")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/app/scripts/directives/" (21019 21378) "directives.js" "../" "./")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/app/scripts/services/" (21019 21378) "../" "services.js" "./")
+
+ ("/home/barton/projects/angular/angularjs-book/chapter4/guthub/" (21019 21388) "README.md" "test/" "package.json" "app/" "karma.e2e.conf.js" "karma.conf.js" "../" "./" "web-server.js")
+
+ ("/home/barton/projects/angular/book/app/" (21015 52022) ".htaccess" "robots.txt" "scripts/" "styles/" ".buildignore" "../" "favicon.ico" "404.html" "index.html" "views/" "bower_components/" "./")
+
+ ("/home/barton/projects/angular/book/app/styles/" (21015 51775) "../" "main.css" "./" "bootstrap.css")
+
+ ("/home/barton/projects/angular/book/" (21015 51825) ".jshintrc" ".bowerrc" "Gruntfile.js" "test/" "package.json" "app/" "karma.conf.js" ".travis.yml" "../" "karma-e2e.conf.js" ".gitattributes" "node_modules/" "bower.json" ".editorconfig" "./" ".gitignore")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

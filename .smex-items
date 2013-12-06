@@ -1,0 +1,35 @@
+
+;; ----- smex-history -----
+(
+ compile
+ menu-bar-mode
+ replace-regexp
+ eval-buffer
+ load-theme
+ package-install
+ list-packages
+)
+
+;; ----- smex-data -----
+(
+ (nrepl-jack-in . 37)
+ (shell . 2)
+ (package-list-packages . 2)
+ (eval-buffer . 7)
+ (compile . 8)
+ (package-refresh-contents . 1)
+ (nrepl . 13)
+ (paredit-mode . 1)
+ (list-load-path-shadows . 1)
+ (set-background-color . 1)
+ (rainbow-delimiters-mode . 2)
+ (org-mode . 2)
+ (load-theme . 25)
+ (list-packages . 1)
+ (rainbow-mode . 2)
+ (package-install . 2)
+ (nrepl-ritz-jack-in . 3)
+ (nrepl-ritz-break-on-exception . 2)
+ (replace-regexp . 1)
+ (menu-bar-mode . 1)
+)

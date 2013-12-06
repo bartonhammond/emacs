@@ -1,0 +1,10 @@
+'use strict';
+
+angular.module('parseApp')
+  .factory('AudioFile', function ($parseResource) {
+
+    var AudioFile = new $parseResource('AudioFile');
+
+    return AudioFile;
+
+  });

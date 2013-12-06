@@ -1,0 +1,9 @@
+'use strict';
+
+angular.module('ngWidgetApp')
+  .controller('MainCtrl', function ($scope) {
+    $scope.pages = [
+      {link: 'metricContainer', title:'metricContainer'},
+      {link: 'advancedMetricContainter', title: 'advancedMetricContainer'}
+    ];
+  });
