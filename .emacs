@@ -7,7 +7,7 @@
 
 (add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
 (add-to-list 'custom-theme-load-path "~/.emacs.d/emacs-color-theme-solarized")
-(load-theme 'solarized-dark t)
+(load-theme 'solarized t)
 
 (setq-default indent-tabs-mode nil)
 (setq js-indent-level 2)
