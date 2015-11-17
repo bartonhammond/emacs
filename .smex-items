@@ -1,35 +1,45 @@
 
 ;; ----- smex-history -----
 (
- compile
  menu-bar-mode
- replace-regexp
- eval-buffer
- load-theme
- package-install
  list-packages
+ shell
+ describe-key
+ goto-line
+ compile
+ kill-rectangle
 )
 
 ;; ----- smex-data -----
 (
- (nrepl-jack-in . 37)
+ (menu-bar-mode . 36)
+ (package-install . 3)
+ (load-library . 1)
+ (comint-append-output-to-file . 2)
+ (compile . 295)
+ (json-mode . 4)
+ (goto-line . 19)
+ (html-mode . 10)
+ (text-mode . 4)
+ (recentf-open-more-files . 8)
+ (complete-tag . 2)
+ (kill-region . 1)
+ (kill-rectangle . 6)
+ (ebrowse-member-mode . 1)
+ (list-packages . 5)
+ (describe-key . 6)
+ (js-mode . 1)
  (shell . 2)
- (package-list-packages . 2)
- (eval-buffer . 7)
- (compile . 8)
- (package-refresh-contents . 1)
- (nrepl . 13)
- (paredit-mode . 1)
- (list-load-path-shadows . 1)
- (set-background-color . 1)
- (rainbow-delimiters-mode . 2)
- (org-mode . 2)
- (load-theme . 25)
- (list-packages . 1)
- (rainbow-mode . 2)
- (package-install . 2)
- (nrepl-ritz-jack-in . 3)
- (nrepl-ritz-break-on-exception . 2)
- (replace-regexp . 1)
- (menu-bar-mode . 1)
+ (mark-page . 1)
+ (markdown-mode . 3)
+ (f90-mode . 1)
+ (shell-dynamic-complete-environment-variable . 1)
+ (vc-git-grep . 1)
+ (compare-windows . 6)
+ (insert-kbd-macro . 1)
+ (undo . 1)
+ (add-dir-local-variable . 1)
+ (make-variable-buffer-local . 2)
+ (set-variable . 2)
+ (xml-mode . 1)
 )
