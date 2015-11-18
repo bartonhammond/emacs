@@ -2,7 +2,10 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/Users/barton/projects/MFV/" . "redux/")
+ ("/Users/barton/projects/MFV/este/" . "src/")
+ ("/Users/barton/projects/MFV/redux/examples/async/" . "node_modules/")
+ ("/Users/barton/projects/MFV/redux/examples/" . "async/")
+ ("/Users/barton/projects/MFV/" . "este/")
  ("/Users/barton/projects/myFamilyVoice/CloudCode-Express/node_modules/" . "body-parser/")
  ("/Users/barton/projects/myFamilyVoice/MFV/parse/" . "cloud/")
  ("/Users/barton/projects/reactNative/react-native/Examples/" . "UIExplorer/")
@@ -84,12 +87,31 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/barton/projects/MFV/"
+ "/Users/barton/projects/MFV/este/src/native/components/"
+ "/Users/barton/projects/MFV/este/src/"
  "/Users/barton/"
+ "/Users/barton/projects/MFV/este/"
+ "/Users/barton/.emacs.d/auto-save-list/"
+ "/Users/barton/projects/MFV/"
+ "/Users/barton/.emacs.d/elpa/"
  "/Users/barton/.emacs.d/"
- "/Users/barton/projects/MFV/redux/examples/todos-with-undo/"
- "/Users/barton/projects/MFV/redux/examples/todos-with-undo/components/"
+ "/Users/barton/projects/MFV/este/src/native/"
+ "/Users/barton/projects/"
+ "/Users/barton/projects/MFV/redux-tutorial/"
+ "/Users/barton/projects/MFV/redux-tutorial/12_src/src/"
+ "/Users/barton/projects/snippets/react-snippets.el/snippets/js-mode/"
+ "/Users/barton/projects/MFV/redux-tutorial/12_src/"
+ "/Users/barton/projects/MFV/redux/examples/async/"
+ "/Users/barton/projects/MFV/redux/examples/async/store/"
  "/Users/barton/projects/MFV/redux/examples/"
+ "/Users/barton/projects/MFV/redux/examples/async/components/"
+ "/Users/barton/projects/MFV/redux/examples/async/containers/"
+ "/Users/barton/projects/MFV/redux/examples/async/reducers/"
+ "/Users/barton/projects/MFV/redux/examples/async/node_modules/react/"
+ "/Users/barton/projects/MFV/redux/examples/async/node_modules/"
+ "/Users/barton/projects/MFV/redux/examples/todos-with-undo/components/"
+ "/Users/barton/projects/MFV/redux/"
+ "/Users/barton/projects/MFV/redux/examples/todos-with-undo/"
  "/Users/barton/projects/MFV/redux/examples/todomvc/test/components/"
  "/Users/barton/projects/MFV/redux/examples/todomvc/test/actions/"
  "/Users/barton/projects/MFV/redux/examples/todomvc/test/"
@@ -97,8 +119,6 @@
  "/Users/barton/projects/MFV/redux/examples/todomvc/constants/"
  "/Users/barton/projects/MFV/redux/examples/todomvc/components/"
  "/Users/barton/projects/MFV/redux/examples/todomvc/"
- "/Users/barton/projects/MFV/redux/"
- "/Users/barton/projects/MFV/este/"
  "/Users/barton/projects/MFV/este/android/"
  "/Users/barton/projects/MFV/este/webpack/server/"
  "/Users/barton/projects/MFV/este/webpack/"
@@ -108,36 +128,21 @@
  "/Users/barton/projects/MFV/este/src/common/"
  "/Users/barton/projects/MFV/este/src/common/intl/"
  "/Users/barton/projects/MFV/este/src/common/intl/messages/"
- "/Users/barton/projects/MFV/este/src/"
  "/Users/barton/projects/MFV/este/src/native/todos/"
- "/Users/barton/projects/MFV/este/src/native/components/"
  "/Users/barton/projects/MFV/este/src/common/todos/"
  "/Users/barton/projects/MFV/este/src/native/app/"
- "/Users/barton/projects/MFV/este/src/native/"
  "/Users/barton/projects/MFV/jquerymobile-tutorial-user-reg-end-to-end/conf-rooms-step2/server/test/"
  "/Users/barton/projects/MFV/jquerymobile-tutorial-user-reg-end-to-end/conf-rooms-step2/server/routes/"
  "/Users/barton/projects/MFV/jquerymobile-tutorial-user-reg-end-to-end/conf-rooms-step2/server/"
  "/Users/barton/projects/MFV/jquerymobile-tutorial-user-reg-end-to-end/conf-rooms-step2/"
  "/Users/barton/projects/MFV/jquerymobile-tutorial-user-reg-end-to-end/conf-rooms-step2/js/"
  "/Users/barton/projects/MFV/mobile-app-backend-router-controller-mongodb/"
- "/Users/barton/projects/MFV/mobile-app-backend-router-controller-mongodb/server/"
- "/Users/barton/projects/MFV/mobile-app-backend-router-controller-mongodb/server/routes/"
- "/Users/barton/projects/MFV/mobile-app-backend-router-controller-mongodb/server/controllers/"
- "/Users/barton/projects/MFV/mobile-app-backend-router-controller-mongodb/server/models/"
- "/Users/barton/projects/MFV/nodeExpress/app/controllers/"
- "/Users/barton/projects/MFV/nodeExpress/app/"
- "/Users/barton/projects/MFV/nodeExpress/app/test/"
- "/Users/barton/projects/MFV/nodeExpress/app/models/"
- "/Users/barton/projects/MFV/nodeExpress/"
- "/Users/barton/projects/MFV/nodeExpress/models/"
- "/Users/barton/projects/MFV/parse-develop/lib/"
- "/Users/barton/projects/MFV/parse-develop/"
- "/Users/barton/projects/MFV/parseProject/cloud/cloud/"
- "/Users/barton/projects/MFV/parseProject/cloud/"
 )
 
 ;; ----- ido-work-file-list -----
 (
+ "gulpfile.babel.js"
+ ".tern-project"
  "account-controller-test.js"
  "mailer-mock.js"
  "user-mock.js"
@@ -146,19 +151,63 @@
  "api-messages.js"
  "ApiResponse.js"
  "user.js"
- "bears.js"
- "server.js"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/barton/" (22091 24864 0 0) "WaveMaker/" "Public/" "projects/" "Pictures/" "Music/" "Movies/" "Library/" "Kitchen Starting Guide.odp" "imgUploadExample/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "bg.jpg" "bg 2.jpg" "Applications/" ".vnc/" ".viminfo" ".v8flags.4.5.103.35.barton.json" ".v8flags.3.28.71.19.barton.json" ".Trash/" ".subversion/" ".ssh/" ".roboform/" ".plugman/" ".parse/" ".npm/" ".node-gyp/" ".mongorc.js" ".modulus/" ".meteorsession" ".meteor-kitchen/" ".meteor/" ".local/" ".ionic/" ".gradle/" ".goodsync/" ".gitconfig" ".gitbook/" ".gem/" ".fuse/" ".eslintrc" ".emacs.elc.elc" ".emacs.elc" ".emacs.d/" ".emacs" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".cordova/" ".config/" ".cocoapods/" ".CFUserTextEncoding" ".cache/" ".bash_profile.pysave" ".bash_profile" ".bash_history" ".babel.json" ".atom/" ".android/" "../" "./")
+ ("/Users/barton/projects/MFV/este/src/native/components/" (22091 57040 0 0) "SideMenu.react.js" "fetch.js" "Component.react.js" "../" "./")
 
- ("/Users/barton/.emacs.d/" (22091 24556 0 0) "themes/" "recentf" "places" "lisp/" "init.elc" "init.el" "ido.last" "emacs-color-theme-solarized/" "elpa/" "backups/" "auto-save-list/" ".smex-items" "../" "./")
+ ("/Users/barton/" (22091 56935 0 0) "WaveMaker/" "Public/" "projects/" "Pictures/" "Music/" "Movies/" "Library/" "Kitchen Starting Guide.odp" "imgUploadExample/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "bg.jpg" "bg 2.jpg" "Applications/" ".vnc/" ".viminfo" ".v8flags.4.5.103.35.barton.json" ".v8flags.3.28.71.19.barton.json" ".Trash/" ".subversion/" ".ssh/" ".roboform/" ".plugman/" ".parse/" ".npm/" ".node_repl_history" ".node-gyp/" ".mongorc.js" ".modulus/" ".meteorsession" ".meteor-kitchen/" ".meteor/" ".local/" ".ionic/" ".gradle/" ".goodsync/" ".gitconfig" ".gitbook/" ".gem/" ".fuse/" ".eslintrc" ".emacs.elc" ".emacs.d/" ".emacs" ".DS_Store" ".dropbox/" ".dbshell" ".cups/" ".cordova/" ".config/" ".cocoapods/" ".CFUserTextEncoding" ".cache/" ".bash_profile.pysave" ".bash_profile" ".bash_history" ".babel.json" ".atom/" ".android/" "../" "./")
 
- ("/Users/barton/projects/MFV/redux/examples/todos-with-undo/" (22091 23257 0 0) "webpack.config.js" "server.js" "reducers.js" "package.json" "node_modules/" "index.js" "index.html" "containers/" "components/" "actions.js" ".babelrc" "../" "./")
+ ("/Users/barton/.emacs.d/auto-save-list/" (22091 56345 0 0) ".saves-4748-Bartons-MacBook-Pro.local~" ".saves-4277-Bartons-MBP~" ".saves-36221-Bartons-MBP~" ".saves-223-Bartons-MacBook-Pro.local~" ".saves-218-Bartons-MacBook-Pro.local~" ".saves-11484-Bartons-MBP.domain~" "../" "./")
 
- ("/Users/barton/projects/MFV/redux/examples/todos-with-undo/components/" (22091 23204 0 0) "TodoList.js" "Todo.js" "Footer.js" "AddTodo.js" "../" "./")
+ ("/Users/barton/.emacs.d/elpa/" (22091 53612 0 0) "yasnippet-readme.txt" "yasnippet-0.8.0/" "web-mode-8.0.4/" "web-mode-20151110.2301/" "tern-auto-complete-20150611.639/" "tern-20150830.1256/" "starter-kit-lisp-2.0.3/" "starter-kit-eshell-2.0.3/" "starter-kit-bindings-2.0.2/" "starter-kit-2.0.3/" "smex-2.0/" "seq-20151028.759/" "react-snippets-20151104.1540/" "rainbow-mode-readme.txt" "rainbow-mode-0.7/" "popup-20150626.711/" "pkg-info-0.6/" "paredit-22/" "nrepl-ritz-0.6.0/" "nrepl-0.1.7/" "magit-1.2.0/" "let-alist-1.0.4/" "jtags-readme.txt" "jsx-mode-20130908.1024/" "json-snatcher-20150511.2047/" "json-reformat-20151007.1728/" "json-mode-20151116.2000/" "json-mode-1.2.0/" "json-mode-0.1.2/" "js2-mode-readme.txt" "js2-mode-20151116.1709/" "js2-mode-20150909/" "js2-mode-20150713/" "ido-ubiquitous-1.6/" "idle-highlight-mode-1.1.2/" "flycheck-20151117.439/" "find-file-in-project-3.2/" "exec-path-from-shell-readme.txt" "exec-path-from-shell-20151006.2253/" "exec-path-from-shell-1.7/" "epl-0.8/" "elisp-slime-nav-0.3/" "dash-20151021.113/" "dash-2.11.0/" "color-theme-solarized-20120301/" "coffee-mode-0.4.1/" "clojure-test-mode-2.1.0/" "clojure-mode-2.1.0/" "auto-complete-auctex-20140223.958/" "auto-complete-20151112.2030/" "archives/" "ace-window-readme.txt" "../" "./")
+
+ ("/Users/barton/.emacs.d/" (22091 54114 0 0) "yasnippets/" "themes/" "recentf" "places" "lisp/" "init.el" "ido.last" "emacs-color-theme-solarized/" "elpa/" "backups/" "auto-save-list/" "ac-comphist.dat" ".smex-items" "../" "./")
+
+ ("/Users/barton/projects/MFV/este/" (22091 51040 0 0) "webpack/" "test/" "src/" "README.md" "Procfile" "package.json" "node_modules/" "LICENSE" "ios/" "index.ios.js" "index.android.js" "gulpfile.babel.js" "circle.yml" "build/" "assets/" "app.json" "android/" ".watchmanconfig" ".tern-project" ".tern-port" ".gitignore" ".gitattributes" ".git/" ".eslintrc" ".editorconfig" ".DS_Store" ".babelrc" "../" "./")
+
+ ("/Users/barton/projects/MFV/este/src/native/" (22091 50824 0 0) "todos/" "routes.js" "index.js" "home/" "components/" "app/" ".eslintrc" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux-tutorial/" (22091 44974 0 0) "README.md" "package.json" "node_modules/" "13_final-words.js" "12_src/" "12_Provider-and-connect.js" "11_state-subscriber.js" "10_middleware.js" "09_dispatch-async-action-2.js" "08_dispatch-async-action-1.js" "07_dispatch-action.js" "06_combine-reducers.js" "05_get-state.js" "04_simple-reducer.js" "03_about-state-and-meet-redux.js" "02_simple-subscriber.js" "01_simple-action-creator.js" "00_introduction.js" ".tern-project" ".tern-port" ".gitignore" ".git/" ".babelrc" "#00_introduction.js#" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux-tutorial/12_src/src/" (22091 45142 0 0) "webpack-dev-server.js" "server.js" "reducers.js" "promise-middleware.js" "index.jsx" "home.jsx" "favicon.png" "create-store.js" "application.jsx" "action-creators.js" ".#application.jsx" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux-tutorial/12_src/" (22091 39674 0 0) "webpack.config.js" "src/" "#webpack.config.js#" "../" "./")
+
+ ("/Users/barton/projects/" (22091 42407 0 0) "xdk/" "videos/" "udemy/" "trigger.io/" "todomvc/" "tabris/" "snippets/" "redux/" "reactNative/" "python/" "pluralSight/" "patterns_in_polymer_js/" "parse/" "orioncooker/" "notes/" "ngrok/" "nativescript/" "myFamilyVoice/" "MFV/" "meteor-source/" "meteor-react/" "meteor-polymer/" "meteor-orion/" "meteor-facebook/" "meteor/" "jobboard/" "javascript/" "ionic/" "host-backup" "gopro/" "gitbook/" "ghost-0.6.4/" "ghost/" "gh-pages/" "fuse/" "facebook/" "emacs/" "dennis/" "dashing/" "cordova/" "bootstrap-blog/" ".DS_Store" "../" "./")
+
+ ("/Users/barton/projects/snippets/react-snippets.el/snippets/js-mode/" (22091 42436 0 0) "ss.yasnippet" "sp.yasnippet" "scu.yasnippet" "rr.yasnippet" "r.yasnippet" "gis.yasnippet" "gdp.yasnippet" "cwum.yasnippet" "cwu.yasnippet" "cwrp.yasnippet" "cwm.yasnippet" "cdu.yasnippet" "cdm.yasnippet" "cc.yasnippet" "../" "./")
+
+ ("/Users/barton/projects/MFV/" (22091 34554 0 0) "redux-tutorial/" "redux/" "parseProject/" "parse-develop/" "nodeExpress/" "mobile-app-backend-router-controller-mongodb/" "jquerymobile-tutorial-user-reg-end-to-end/" "este/" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/store/" (22091 21278 0 0) "configureStore.js" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/components/" (22091 21278 0 0) "Posts.js" "Picker.js" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/reducers/" (22091 21278 0 0) "index.js" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/node_modules/react/" (22091 26021 0 0) "README.md" "react.js" "package.json" "node_modules/" "lib/" "dist/" "addons.js" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/node_modules/react/lib/" (22091 26019 0 0) "webcomponents.js" "ViewportMetrics.js" "validateDOMNesting.js" "update.js" "traverseAllChildren.js" "Transaction.js" "TapEventPlugin.js" "SyntheticWheelEvent.js" "SyntheticUIEvent.js" "SyntheticTouchEvent.js" "SyntheticMouseEvent.js" "SyntheticKeyboardEvent.js" "SyntheticInputEvent.js" "SyntheticFocusEvent.js" "SyntheticEvent.js" "SyntheticDragEvent.js" "SyntheticCompositionEvent.js" "SyntheticClipboardEvent.js" "SVGDOMPropertyConfig.js" "sliceChildren.js" "SimpleEventPlugin.js" "shouldUpdateReactComponent.js" "shallowCompare.js" "setTextContent.js" "setInnerHTML.js" "ServerReactRootIndex.js" "SelectEventPlugin.js" "ResponderTouchHistoryStore.js" "ResponderSyntheticEvent.js" "ResponderEventPlugin.js" "renderSubtreeIntoContainer.js" "ReactWithAddons.js" "ReactVersion.js" "ReactUpdates.js" "ReactUpdateQueue.js" "ReactTransitionGroup.js" "ReactTransitionEvents.js" "ReactTransitionChildMapping.js" "ReactTestUtils.js" "ReactStateSetters.js" "ReactServerRenderingTransaction.js" "ReactServerRendering.js" "ReactServerBatchingStrategy.js" "ReactRootIndex.js" "ReactRef.js" "ReactReconcileTransaction.js" "ReactReconciler.js" "ReactPropTypes.js" "ReactPropTypeLocations.js" "ReactPropTypeLocationNames.js" "ReactPropTransferer.js" "ReactPerf.js" "ReactOwner.js" "ReactNoopUpdateQueue.js" "ReactNativeComponent.js" "ReactMultiChildUpdateTypes.js" "ReactMultiChild.js" "ReactMount.js" "ReactMarkupChecksum.js" "ReactLink.js" "ReactIsomorphic.js" "ReactInstanceMap.js" "ReactInstanceHandles.js" "ReactInputSelection.js" "ReactInjection.js" "ReactFragment.js" "ReactEventListener.js" "ReactEventEmitterMixin.js" "ReactErrorUtils.js" "ReactEmptyComponentRegistry.js" "ReactEmptyComponent.js" "ReactElementValidator.js" "ReactElement.js" "ReactDOMTextComponent.js" "ReactDOMTextarea.js" "ReactDOMServer.js" "ReactDOMSelection.js" "ReactDOMSelect.js" "ReactDOMOption.js" "ReactDOMInput.js" "ReactDOMIDOperations.js" "ReactDOMFeatureFlags.js" "ReactDOMFactories.js" "ReactDOMComponent.js" "ReactDOMButton.js" "ReactDOM.js" "ReactDefaultPerfAnalysis.js" "ReactDefaultPerf.js" "ReactDefaultInjection.js" "ReactDefaultBatchingStrategy.js" "ReactCurrentOwner.js" "ReactCSSTransitionGroupChild.js" "ReactCSSTransitionGroup.js" "ReactCompositeComponent.js" "ReactComponentWithPureRenderMixin.js" "reactComponentExpect.js" "ReactComponentEnvironment.js" "ReactComponentBrowserEnvironment.js" "ReactComponent.js" "ReactClass.js" "ReactChildren.js" "ReactChildReconciler.js" "ReactBrowserEventEmitter.js" "ReactBrowserComponentMixin.js" "React.js" "quoteAttributeValueForBrowser.js" "PooledClass.js" "OrderedMap.js" "onlyChild.js" "Object.assign.js" "MetaMatchers.js" "LinkedValueUtils.js" "LinkedStateMixin.js" "isTextInputElement.js" "isEventSupported.js" "instantiateReactComponent.js" "HTMLDOMPropertyConfig.js" "getTextContentAccessor.js" "getTestDocument.js" "getNodeForCharacterOffset.js" "getIteratorFn.js" "getEventTarget.js" "getEventModifierState.js" "getEventKey.js" "getEventCharCode.js" "forEachAccumulated.js" "flattenChildren.js" "findDOMNode.js" "FallbackCompositionState.js" "EventPropagators.js" "EventPluginUtils.js" "EventPluginRegistry.js" "EventPluginHub.js" "EventConstants.js" "escapeTextContentForBrowser.js" "EnterLeaveEventPlugin.js" "DOMPropertyOperations.js" "DOMProperty.js" "DOMChildrenOperations.js" "deprecated.js" "DefaultEventPluginOrder.js" "dangerousStyleValue.js" "Danger.js" "CSSPropertyOperations.js" "CSSProperty.js" "createHierarchyRenderer.js" "cloneWithProps.js" "ClientReactRootIndex.js" "ChangeEventPlugin.js" "canDefineProperty.js" "CallbackQueue.js" "BeforeInputEventPlugin.js" "AutoFocusUtils.js" "adler32.js" "accumulateInto.js" "accumulate.js" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/node_modules/" (22091 26028 0 0) "webpack-hot-middleware/" "webpack-dev-middleware/" "webpack/" "redux-thunk/" "redux-logger/" "redux/" "react-transform-hmr/" "react-redux/" "react-dom/" "react/" "node-libs-browser/" "isomorphic-fetch/" "express/" "expect/" "babel-plugin-react-transform/" "babel-loader/" "babel-core/" ".bin/" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/actions/" (22091 21278 0 0) "index.js" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/containers/" (22091 21278 0 0) "App.js" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/async/" (22091 26040 0 0) "webpack.config.js" "store/" "server.js" "reducers/" "package.json" "npm-debug.log" "node_modules/" "index.js" "index.html" "containers/" "components/" "actions/" ".babelrc" "../" "./")
+
+ ("/Users/barton/projects/emacs/" (21841 64417 0 0) "emacs/" "../" "./")
+
+ ("/Users/barton/projects/emacs/emacs/" (22091 25853 0 0) "themes/" "recentf" "README.md" "places" "lisp/" "init.elc" "init.el" "ido.last" "emacs-color-theme-solarized/" "elpa/" "backups/" "auto-save-list/" ".smex-items" ".git/" ".emacs" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/todos-with-undo/" (22091 24226 0 0) "webpack.config.js" "server.js" "reducers.js" "package.json" "node_modules/" "index.js" "index.html" "containers/" "components/" "actions.js" ".babelrc" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/todos-with-undo/containers/" (22091 23241 0 0) "App.js" "../" "./")
+
+ ("/Users/barton/projects/MFV/redux/examples/todos-with-undo/components/" (22091 23207 0 0) "TodoList.js" "Todo.js" "Footer.js" "AddTodo.js" "../" "./")
 
  ("/Users/barton/projects/MFV/redux/examples/" (22091 21278 0 0) "universal/" "todos-with-undo/" "todomvc/" "testAll.js" "shopping-cart/" "real-world/" "counter/" "buildAll.js" "async/" "../" "./")
 
@@ -177,10 +226,6 @@
  ("/Users/barton/projects/MFV/redux/examples/todomvc/components/" (22091 21445 0 0) "TodoTextInput.js" "TodoItem.js" "MainSection.js" "Header.js" "Footer.js" "../" "./")
 
  ("/Users/barton/projects/MFV/redux/" (22091 21278 0 0) "webpack.config.production.js" "webpack.config.development.js" "webpack.config.base.js" "test/" "src/" "README.md" "PATRONS.md" "package.json" "LICENSE.md" "examples/" "docs/" "CODE_OF_CONDUCT.md" "CNAME" "CHANGELOG.md" "book.json" ".travis.yml" ".gitignore" ".git/" ".flowconfig" ".eslintrc" ".eslintignore" ".editorconfig" ".babelrc" "../" "./")
-
- ("/Users/barton/projects/MFV/" (22091 21251 0 0) "redux/" "parseProject/" "parse-develop/" "nodeExpress/" "mobile-app-backend-router-controller-mongodb/" "jquerymobile-tutorial-user-reg-end-to-end/" "este/" "../" "./")
-
- ("/Users/barton/projects/MFV/este/" (22091 11607 0 0) "webpack/" "test/" "src/" "README.md" "Procfile" "package.json" "npm-debug.log" "node_modules/" "LICENSE" "ios/" "index.ios.js" "index.android.js" "gulpfile.babel.js" "circle.yml" "build/" "assets/" "app.json" "android/" ".watchmanconfig" ".gitignore" ".gitattributes" ".git/" ".eslintrc" ".editorconfig" ".DS_Store" ".babelrc" "../" "./")
 
  ("/Users/barton/projects/MFV/este/android/" (22090 44218 0 0) "settings.gradle" "gradlew.bat" "gradlew" "gradle.properties" "gradle/" "build.gradle" "build/" "app/" ".gradle/" "../" "./")
 
@@ -202,15 +247,11 @@
 
  ("/Users/barton/projects/MFV/este/src/" (22090 41724 0 0) "server/" "native/" "common/" "browser/" "../" "./")
 
- ("/Users/barton/projects/MFV/este/src/native/components/" (22090 44637 0 0) "SideMenu.react.js" "fetch.js" "Component.react.js" "../" "./")
-
  ("/Users/barton/projects/MFV/este/src/common/todos/" (22090 44873 0 0) "todo.js" "reducer.js" "actions.js" "../" "./")
 
  ("/Users/barton/projects/MFV/este/src/native/todos/" (22090 44694 0 0) "Todo.react.js" "Page.react.js" "NewTodo.react.js" "List.react.js" "Header.react.js" "Buttons.react.js" "../" "./")
 
  ("/Users/barton/projects/MFV/este/src/native/app/" (22090 44508 0 0) "styles.js" "Menu.react.js" "Header.react.js" "App.react.js" "../" "./")
-
- ("/Users/barton/projects/MFV/este/src/native/" (22090 44316 0 0) "todos/" "routes.js" "index.js" "home/" "components/" "app/" ".eslintrc" "../" "./")
 
  ("/Users/barton/projects/MFV/jquerymobile-tutorial-user-reg-end-to-end/conf-rooms-step2/server/test/" (22090 40898 0 0) "user-mock.js" "mailer-mock.js" "account-controller-test.js" "../" "./")
 
@@ -266,8 +307,6 @@
 
  ("/Users/barton/projects/MFV/parse-cloud-debugger/parse-cloud-code-demo/" (22090 18131 0 0) "startLocalDebugging.js" "public/" "cloud/" ".parse.project" ".parse.local" ".gitignore" "../" "./")
 
- ("/Users/barton/projects/" (22090 17294 0 0) "xdk/" "videos/" "udemy/" "trigger.io/" "todomvc/" "tabris/" "redux/" "reactNative/" "python/" "pluralSight/" "patterns_in_polymer_js/" "parse/" "orioncooker/" "notes/" "ngrok/" "nativescript/" "myFamilyVoice/" "MFV/" "meteor-source/" "meteor-react/" "meteor-polymer/" "meteor-orion/" "meteor-facebook/" "meteor/" "jobboard/" "javascript/" "ionic/" "host-backup" "gopro/" "gitbook/" "ghost-0.6.4/" "ghost/" "gh-pages/" "fuse/" "facebook/" "emacs/" "dennis/" "dashing/" "cordova/" "bootstrap-blog/" ".DS_Store" "../" "./")
-
  ("/Users/barton/projects/myFamilyVoice/sk-react-native/" (22090 15742 0 0) "splash.png" "songkickTests/" "songkick.xcodeproj/" "songkick-api.js" "settings.js" "screenshots.png" "screens/" "s3-bucket-policy.json" "README.md" "package.json" "Media.xcassets/" "iOS/" "index.ios.js" "icon.png" "colors.js" "circle.yml" "assets.sketch" ".npmignore" ".gitignore" ".git/" ".flowconfig" ".eslintrc" ".editorconfig" ".babelrc" "../" "./")
 
  ("/Users/barton/projects/myFamilyVoice/sk-react-native/screens/events/" (22090 11515 0 0) "event-row.js" "event-location-details.js" "event-details.js" "../" "./")
@@ -315,42 +354,6 @@
  ("/Users/barton/projects/myFamilyVoice/MFV/node_modules/parse-react/lib/" (22087 41573 0 0) "react-native/" "browser/" "../" "./")
 
  ("/Users/barton/projects/myFamilyVoice/MFV/node_modules/parse-react/lib/react-native/" (22087 41573 0 0) "warning.js" "UpdateChannel.js" "SubscriptionManager.js" "Subscription.js" "StubParse.js" "QueryTools.js" "ParseReact.js" "ParsePatches.js" "ParseComponent.js" "ObjectStore.js" "MutationExecutor.js" "MutationBatch.js" "Mutation.js" "Mixin.js" "LocalSubscriptions.js" "Id.js" "flatten.js" "equalObjects.js" "Delta.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/MFV/node_modules/parse-react/" (22087 41573 0 0) "README.md" "react-native.js" "package.json" "LICENSE" "lib/" "index.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/MFV/parse/" (22087 36965 0 0) "testFunc.sh" "public/" "cloud/" ".parse.project" ".parse.local" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/MFV/node_modules/parse/" (22087 37094 0 0) "README.md" "react-native.js" "PATENTS" "package.json" "node_modules/" "node.js" "LICENSE" "lib/" "index.js" "dist/" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/MyFamilyVoice/" (22080 62298 0 0) "www/" "test/" "scripts/" "save-www/" "plugins/" "platforms/" "package.json" "karma.conf.js" "karma-e2e.conf.js" "hooks/" "Gruntfile.js" "docs/" "bower.json" "app/" ".travis.yml" ".jshintrc" ".jshintignore" ".gitignore" ".gitattributes" ".git/" ".editorconfig" ".cordova/" ".bowerrc" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/MyFamilyVoice/app/" (22080 62298 0 0) "views/" "styles/" "scripts/" "robots.txt" "index.html" "images/" "favicon.ico" "404.html" ".htaccess" ".buildignore" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/MyFamilyVoice/app/scripts/" (22080 62298 0 0) "vendor/" "record/" "navbar/" "directives/" "app.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/MyFamilyVoice/app/scripts/record/" (22080 62298 0 0) "RecordCtrl.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/MFV/parse/cloud/" (22087 36922 0 0) "main.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/parse/" (22087 34870 0 0) "public/" "cloud/" ".parse.project" ".parse.local" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/parse/cloud/" (22087 34879 0 0) "main.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/parse/mfvcloud/cloud/" (22087 34729 0 0) "main.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/CloudCode-Express/" (22087 34004 0 0) "testFunc.sh" "server.js" "scripts/" "runRegister.sh" "run.sh" "README.md" "public/" "package.json" "node_modules/" "ngrok_2.0.19_darwin_amd64.zip" "ngrok" "cloud/" ".gitignore" ".git/" ".DS_Store" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/parse/mfvcloud/" (22087 33610 0 0) "public/" "cloud/" ".parse.project" ".parse.local" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/CloudCode-Express/cloud/" (22087 32845 0 0) "main.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/CloudCode-Express/scripts/" (22087 21005 0 0) "register-webhooks.js" "record-webhooks.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/CloudCode-Express/node_modules/parse/lib/browser/" (22087 28160 0 0) "unsavedChildren.js" "unique.js" "TaskQueue.js" "StorageController.react-native.js" "StorageController.default.js" "StorageController.browser.js" "Storage.js" "RESTController.js" "Push.js" "ParseUser.js" "ParseSession.js" "ParseRole.js" "ParseRelation.js" "ParseQuery.js" "ParsePromise.js" "ParseOp.js" "ParseObject.js" "ParseInstallation.js" "ParseGeoPoint.js" "ParseFile.js" "ParseError.js" "parseDate.js" "ParseConfig.js" "ParseACL.js" "Parse.js" "ObjectState.js" "isRevocableSession.js" "InstallationController.js" "FacebookUtils.js" "escape.js" "equals.js" "encode.js" "decode.js" "CoreManager.js" "Cloud.js" "canBeSerialized.js" "arrayContainsObject.js" "Analytics.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/CloudCode-Express/node_modules/parse/dist/" (22087 28160 0 0) "parse-latest.min.js" "parse-latest.js" "../" "./")
-
- ("/Users/barton/projects/myFamilyVoice/CloudCode-Express/node_modules/parse-cloud-express/" (22087 29917 0 0) "README.md" "package.json" "node_modules/" "index.js" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

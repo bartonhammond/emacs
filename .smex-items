@@ -2,23 +2,23 @@
 ;; ----- smex-history -----
 (
  menu-bar-mode
+ byte-compile-file
+ lisp-mode
+ auto-complete-mode
  list-packages
- shell
- describe-key
  goto-line
  compile
- kill-rectangle
 )
 
 ;; ----- smex-data -----
 (
- (menu-bar-mode . 36)
- (package-install . 3)
+ (menu-bar-mode . 83)
+ (package-install . 7)
  (load-library . 1)
  (comint-append-output-to-file . 2)
  (compile . 295)
  (json-mode . 4)
- (goto-line . 19)
+ (goto-line . 21)
  (html-mode . 10)
  (text-mode . 4)
  (recentf-open-more-files . 8)
@@ -26,10 +26,10 @@
  (kill-region . 1)
  (kill-rectangle . 6)
  (ebrowse-member-mode . 1)
- (list-packages . 5)
- (describe-key . 6)
- (js-mode . 1)
- (shell . 2)
+ (list-packages . 25)
+ (describe-key . 7)
+ (js-mode . 3)
+ (shell . 3)
  (mark-page . 1)
  (markdown-mode . 3)
  (f90-mode . 1)
@@ -42,4 +42,14 @@
  (make-variable-buffer-local . 2)
  (set-variable . 2)
  (xml-mode . 1)
+ (show-paren-mode . 1)
+ (js2-mode . 9)
+ (web-mode . 2)
+ (jsx-mode . 26)
+ (delete-tern-process . 10)
+ (auto-complete-mode . 13)
+ (js-gc . 1)
+ (tern-ac-dot-complete . 1)
+ (lisp-mode . 1)
+ (byte-compile-file . 1)
 )
