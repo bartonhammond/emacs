@@ -133,8 +133,7 @@
  )
 
 ;;http://codewinds.com/blog/2015-04-02-emacs-flycheck-eslint-jsx.html
-;; use web-mode for .jsx files
-(add-to-list 'auto-mode-alist '("\\.jsx$" . jsx-mode))
+;; use web-mode for .jsx files(add-to-list 'auto-mode-alist '("\\.jsx$" . jsx-mode))
 (add-to-list 'auto-mode-alist '("\\.js$" . js2-mode))
 (add-to-list 'auto-mode-alist '("\\react.js$" . jsx-mode))        
 ;;barton
@@ -147,11 +146,14 @@
 ;;(append flycheck-disabled-checkers
 ;;      '(json-jsonlist)))
 
-;; use eslint with web-mode for jsx files
 (flycheck-add-mode 'javascript-eslint 'jsx-mode)
 (flycheck-add-mode 'javascript-eslint 'js2-mode)
 (flycheck-add-mode 'javascript-eslint 'web-mode)
 
+(custom-set-variables  
+ '(js2-basic-offset 2)  
+ '(js2-bounce-indent-p t)  
+)
 (setq js-indent-level 2)
 (setq jsx-indent-level 2)
 
