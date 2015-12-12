@@ -133,9 +133,13 @@
  )
 
 ;;http://codewinds.com/blog/2015-04-02-emacs-flycheck-eslint-jsx.html
-;; use web-mode for .jsx files(add-to-list 'auto-mode-alist '("\\.jsx$" . jsx-mode))
+;; use web-mode for .jsx files(add-to-list 'auto-mode-alist
+;; '("\\.jsx$" . jsx-mode))
+(setq web-mode-content-types-alist
+  '(("jsx" . "\\.js[x]?\\'")))
 (add-to-list 'auto-mode-alist '("\\.js$" . js2-mode))
-(add-to-list 'auto-mode-alist '("\\react.js$" . jsx-mode))        
+(add-to-list 'auto-mode-alist '("\\react.js$" . jsx-mode))
+(add-to-list 'auto-mode-alist '("\\jsx$" . jsx-mode))                
 ;;barton
 
 ;; turn on flychecking globally
