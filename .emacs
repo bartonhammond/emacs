@@ -64,3 +64,6 @@
  '(custom-enabled-themes (quote (deeper-blue)))
 )
 
+(fset 'psyshell
+   (lambda (&optional arg) "Keyboard macro." (interactive "p") (kmacro-exec-ring-item (quote ([92 80 115 121 92 83 104 101 108 108 58 58 100 101 98 117 103 40 103 101 116 95 100 101 118 105 99 backspace backspace backspace 102 105 110 101 100 95 118 97 114 115 40 41 44 36 116 104 105 115 41 59] 0 "%d")) arg)))
+
